@@ -29,6 +29,7 @@ Publish the website in the given URL.
 Figma
 
 # CODE:
+```
 home.html
 <!DOCTYPE html>
 <html lang="en">
@@ -134,7 +135,7 @@ contact.html
     </div>
 </body>
 </html>
-
+```
 
 # OUTPUT:
 <img width="648" height="816" alt="image" src="https://github.com/user-attachments/assets/abb7b137-cbf4-45a7-b61f-fa432b3646a3" />
